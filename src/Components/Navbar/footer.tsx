@@ -97,7 +97,7 @@ export default function Footer() {
         {/* BRAND + ALAMAT */}
         <section aria-label="Tentang KAI">
           <Link
-            href="/Home"
+            href="/"
             aria-label="KAI, ke halaman beranda"
             className={`inline-block rounded-md bg-white px-3 py-1.5 ${linkFocus}`}
           >

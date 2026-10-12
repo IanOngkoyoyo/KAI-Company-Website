@@ -26,7 +26,7 @@ export default function Navbar() {
         className="mx-auto flex w-full max-w-6xl items-center justify-between px-5 py-3 md:px-8"
       >
         <Link
-          href="/Home"
+          href="/"
           aria-label="KAI, ke halaman beranda"
           className="rounded-md bg-white px-3 py-1.5 focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#F47B20]"
         >
